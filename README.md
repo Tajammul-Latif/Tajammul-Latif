@@ -5,7 +5,7 @@
 <a href="https://twitter.com/LatifTajammul"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/tajammul-latif-a043101b8/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://www.instagram.com/tajammullatif_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://mail.google.com/mail/u/1/#inbox"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:tajammullatif@gmail.com?body=Hi%20there%2C%20Found%20you%20on%20GitHub."><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
 <h3><i>🙋‍♂️ABOUT ME<i/></h3>
@@ -15,7 +15,7 @@
   -  Core Team Member at [Google Developer Student Clubs](https://www.instagram.com/p/CUIYw1khu34/) Chapter UET Taxila🚀
   -  Full Stack Developer ⚡
   -  Interested in web, open-source and high level system design 🛠️
-  -  Hackathon challenge [Challenge](https://cyberhackathon.pk/public/index.html) ✨
+  -  Hackathon challenge [Hackathon Challenge in Pakistan](https://cyberhackathon.pk/public/index.html) ✨
 
 <br>
 <h3><i>⚡Tools & Tech</i></h3>
