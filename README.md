@@ -13,8 +13,9 @@
 
   -  Software Engineering Student at [University of Engineering & Technology, Taxila](https://web.uettaxila.edu.pk/)🎓
   -  Core Team Member at [Google Developer Student Clubs](https://www.instagram.com/p/CUIYw1khu34/) Chapter UET Taxila🚀
-  -  Full Stack Developer ⚡
-  -  Interested in web, open-source and high level system design 🛠️
+  -  Crowdsource Influencer 🦾
+  -  ML / DL / NLP Engineer ⚡
+  -  Interested in Data Science, ML, DL and NLP 🛠️
   -  Hackathon challenge [Hackathon Challenge in Pakistan](https://cyberhackathon.pk/public/index.html) ✨
   -  Gmail ID : [tajammullatif@gmail.com](https://mail.google.com/mail/u/0/#inbox/)🎓
 
